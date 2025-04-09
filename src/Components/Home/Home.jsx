@@ -1,5 +1,5 @@
 import Overview from "../Overview/Overview";
-import TotalUsers from "../totalUsers/totalUsers";
+import TotalUsers from "../TotalUsers/TotalUsers";
 import Traffic from "../Traffic/Traffic";
 import TrafficByDevice from "../TrafficByDevice/TrafficByDevice";
 import TrafficByLocation from "../TrafficByLocation/TrafficByLocation";
